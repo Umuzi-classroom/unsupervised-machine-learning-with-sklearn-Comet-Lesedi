@@ -1,0 +1,24 @@
+Code Execution
+
+Python was used to complete this assignment in an interactive Jupyter Notebook environment that was started by the Anaconda distribution that was installed on my PC. Because Anaconda offers a complete data science environment with all the tools and libraries needed for data analysis and machine learning, it was chosen. The analysis was carried out in a new Python notebook created with Jupyter Notebook after Anaconda was installed. The Mozilla Firefox web browser was used to access and run the notebook. The notebook allowed the integration of executable Python code, visualizations, and written explanations within a single document. Python version 3.13.5 was used for the analysis along with a number of widely used data science libraries, such as NumPy for numerical calculations, matplotlib and seaborn for data visualization, pandas for data manipulation, and scikit-learn for applying machine learning methods like Principal Component Analysis (PCA) and KMeans clustering. The data was preprocessed and scaled using these tools. 
+
+Steps
+
+Python 3.13.5
+      |
+      v
+Anaconda Installed
+      |
+      v
+Jupyter Notebook Launched
+      |
+      v
+Opened in Mozilla Firefox
+      |
+      v
+Workflow:
+  - Import Libraries
+  - Preprocess & Scale Data
+  - PCA (Dimensionality Reduction)
+  - KMeans Clustering
+  - Evaluate & Visualize Clusters
